@@ -13,7 +13,9 @@
 - 📊 Exploring data analysis, automation & machine learning
 - 💡 Building cool side projects with minimal resources
 - 📖 Currently learning: Python, SQL, OpenCV, WordPress
-- 🎯 2025 Goal: Financial freedom, MSc abroad, 500+ LinkedIn connections
+🇲🇾 Semester Exchange @ Universiti Sains Malaysia (USM)
+🛠 Learning Python • SQL • Power BI • Excel
+📍 Currently in Penang, Malaysia
 
 ---
 

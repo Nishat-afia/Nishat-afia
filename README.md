@@ -26,6 +26,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)  
 
 ---
+## 📱 Connect with me
+![LinkedIn QR](nishat_linkedin_qr.png)
+
 
 ### 🛠️ Tech Stack
 ```bash

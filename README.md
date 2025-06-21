@@ -13,6 +13,7 @@
 - 📊 Exploring data analysis, automation & machine learning
 - 💡 Building cool side projects with minimal resources
 - 📖 Currently learning: Python, SQL, OpenCV, WordPress
+- 
 🇲🇾 Semester Exchange @ Universiti Sains Malaysia (USM)
 🛠 Learning Python • SQL • Power BI • Excel
 📍 Currently in Penang, Malaysia

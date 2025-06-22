@@ -32,7 +32,7 @@
 ### 📬 Let's Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishatverse/Overthinker.exe/main/nishat_afia_linkedin_qr.png" alt="LinkedIn QR" width="130"/>
+  <img src="nishat_afia_linkedin_qr.png" alt="LinkedIn QR" width="130"/>
 </p>
 
 <p align="center">

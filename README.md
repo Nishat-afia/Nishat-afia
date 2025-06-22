@@ -1,4 +1,4 @@
-# 💻 Overthinker.exe  
+# 💻 Nishatverse
 
 <p align="center">
   <img src="player nishat (1).png"/>

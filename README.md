@@ -1,7 +1,7 @@
 # 💻 Overthinker.exe  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishatverse/Overthinker.exe/main/f32ea936-75f4-47bb-be74-492d0341a0d2.png" alt="Cyberpunk Girl Coder Banner"/>
+  <img src="player nishat.mp4" alt="Cyberpunk Girl Coder Banner"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Nishat Afia</h1>

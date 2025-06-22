@@ -13,7 +13,7 @@
 
 <!-- Video Preview under Name -->
 <p align="center">
-  <a href="https://github.com/nishatverse/Overthinker.exe/blob/main/player%20nishat.mp4">
+  <a href="player nishat.mp4">
     <img src="https://raw.githubusercontent.com/nishatverse/Overthinker.exe/main/f32ea936-75f4-47bb-be74-492d0341a0d2.png" alt="Watch My Demo" width="480"/>
   </a>
 </p>
